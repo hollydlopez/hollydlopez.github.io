@@ -1,200 +1,193 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Holly Lopez",
+    "label": "Computational Linguist & Information Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "url": "https://github.com/hollydlopez/hollydlopez.github.io",
+    "summary": "a computational linguist & information scientist, who researches abusive language detection, the creation of high-quality linguistic resources, and the development of socially responsible AI systems",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "hollydlopez",
+        "url": "https://www.linkedin.com/in/hollydlopez/"
       }
     ]
   },
-  "work": [
+  "Academic Appointments": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Indiana University, Bloomington",
+      "position": "Assistant Instructor",
+      "url": "",
+      "startDate": "2019",
+      "endDate": "2024",
+      "summary": "Courses:Information Institutions and their Management (ILS Z-550), Social Media Mining (ILS Z-639), Content Analysis for the Web (ILS Z-642)",
+      "highlights": [""]
     }
   ],
-  "volunteer": [
+  "Professional Experience": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
+      "organization": "Jeffco Public Schools",
+      "location": "Golden, CO",
+      "position": "Qualitative Research Assistant",
+      "url": "",
+      "startDate": "2014",
+      "endDate": "2017",
+      "summary": "Designed and executed research studies and program evaluations.",
+      "highlights": ["Facilitated design workshops in which 27 family engagement liaisons developed family outreach initiatives at Title I schools across the district", "Led the Supplemental Education Services program in the iterative design process for three years and used mixed-methods research to inform incremental change throughout the program’s life cycle"]  
+    },
+    } "organization": "Fors Marsh Group, LLC",
+      "location": "Arlington, VA",
+      "position": "User Experience Research Analyst",
+      "url": "",
+      "startDate": "2012",
+      "endDate": "2013",
+      "summary": "•	Performed and designed user experience research for web products and surveys.",
+      "highlights": ["•	Contributed to the Total Organization Health Survey product used by numerous organizations seeking data on workforce development"]
+}
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Indiana University, Bloomington",
+      "location": "Bloomington, IN",
+      "url": "",
+      "area": "Information Science",
+      "studyType": "Ph.D.",
+      "startDate": "2018",
+      "endDate": "Projected 2026",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Georgetown University",
+      "location": "Washington, DC",
+      "url": "",
+      "area": "Linguistics",
+      "studyType": "M.A.",
+      "startDate": "2010",
+      "endDate": "2012",
+      "score": "",
+      "courses": [""]
+    },
+    {
+      "institution": "Vanguard University",
+      "location": "Costa Mesa, CA",
+      "url": "",
+      "area": "Communication Studies",
+      "studyType": "B.A.",
+      "startDate": "2004",
+      "endDate": "2008",
+      "score": "",
+      "courses": [""]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Outstanding Teaching Award",
+      "date": "2024",
+      "awarder": "Luddy School of Informatics, Computing, and Engineering",
+      "url": "",
+      "summary": ""
+    },
+      {
+      "title": "Summer Research Award",
+      "date": "2023",
+      "awarder": "Luddy School of Informatics, Computing, and Engineering",
+      "url": "",
+      "summary": ""
+    },
+      {
+      "title": "Information Science Leadership Fellowship",
+      "date": "2018",
+      "awarder": "Luddy School of Informatics, Computing, and Engineering",
+      "url": "",
+      "summary": ""
     }
   ],
-  "certificates": [
+  "Journals & Proceedings": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "authors":["Lopez, H.", "Kübler, S."],
+      "name": "Contextualization in abusive language annotation and corpora development [special issue]",
+      "publisher": "Discourse, Context, and Media",
+      "releaseDate": "2025",
+      "url": "https://doi.org/10.1016/j.dcm.2024.100848"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "authors":["Lopez Long, H.", "Fichman, P."],
+      "name": "The impact of politeness on conversational outcomes in mobile dating apps",
+      "publisher": "Hawaii International Conference on System Sciences (HICSS)",
+      "releaseDate": "2023",
+      "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/ca62ee88-0b24-4817-a4c7-bba089acbc96/content"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "authors":["Lopez Long, H.", "O'Neil, A.", "Kübler, S."],
+      "name": "On the Interaction between Annotation Quality and Classifier Performance in Abusive Language Detection",
+      "publisher": "International Conference Recent Advances in Natural Language Processing (RANLP)",
+      "releaseDate": "2021",
+      "url": "https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/ca62ee88-0b24-4817-a4c7-bba089acbc96/content"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "authors":["Herring, S.C.", "Dainas, A.R.", "Lopez Long, H."],
+      "name": "If I’m close with them it wouldn’t be weird”: Social distance and animoji use",
+      "publisher": "International Conference on Human-Computer Interaction",
+      "releaseDate": "2020",
+      "url": "https://doi.org/10.1007/978-3-030-60152-2_23"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "authors":["Herring, S.C.", "Dainas, A.R.", "Lopez Long, H.", "Tang, Y."],
+      "name": "Animoji adoption and use: Gender associations with an emergent technology",
+      "publisher": "Proceedings of Emoji 2020",
+      "releaseDate": "2020",
+      "url": "https://workshop-proceedings.icwsm.org/pdf/2020_03.pdf"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
+      "authors":["Herring, S.C.", "Dainas, A.R.", "Lopez Long, H.", "Tang, Y."],
+      "name": "Animoji Performances: 'Cuz I can be a sexy poop'",
+      "publisher": "Language@Internet",
+      "releaseDate": "2020",
+      "url": "https://web.archive.org/web/20240127230709/https://www.languageatinternet.org/articles/2020/herring"
+    },
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
+    "Invited Talks":[
+      {
+      "authors":["Lopez Long, H."],
+      "name": "Data quality in abusive language data sets and the ethics of developing corpora",
+      "publisher": "Digital Language Variation in Context (DiLCo): Ethics Workshop",
+      "releaseDate": "2021"
+      },
+      {
+      "authors":["Lopez Long, H."],
+      "name": "Data quality in abusive language data sets and the ethics of developing corpora",
+      "publisher": "Digital Language Variation in Context (DiLCo): Ethics Workshop",
+      "releaseDate": "2021"
+      },  
+      {
+      "authors":["Lopez Long, H."],
+      "name": "Integrating discourse perspectives and computational approaches",
+      "publisher": "University of Hamburg Germany: Digital Language Workshop",
+      "releaseDate": "2019"
+      }
+    ]
+"Conference Presentations":[
+     {
+      "authors":["Lopez Long, H.", "O'Neil, A.", "Kübler, S."],
+      "name": "Annotating fine-grained categories for abusive and non-abusive data: Beyond binary decisions",
+      "publisher": "Sociolinguistics Symposium, Ghent, Belgium",
+      "releaseDate": "2022"
+     },
+      {
+      "authors":["Lopez Long, H."],
+      "name": "Tweeting to the choir: Stance-taking and positioning of religious authority online",
+      "publisher": "57th Annual International Linguistics Association Conference, New York City, NY",
+      "releaseDate": "2012"
+     }
   ]
 }
