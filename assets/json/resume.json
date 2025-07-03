@@ -44,7 +44,7 @@
       "summary": "Designed and executed research studies and program evaluations.",
       "highlights": ["Facilitated design workshops in which 27 family engagement liaisons developed family outreach initiatives at Title I schools across the district", "Led the Supplemental Education Services program in the iterative design process for three years and used mixed-methods research to inform incremental change throughout the program’s life cycle"]  
     },
-    } "organization": "Fors Marsh Group, LLC",
+    { "organization": "Fors Marsh Group, LLC",
       "location": "Arlington, VA",
       "position": "User Experience Research Analyst",
       "url": "",
@@ -52,7 +52,7 @@
       "endDate": "2013",
       "summary": "•	Performed and designed user experience research for web products and surveys.",
       "highlights": ["•	Contributed to the Total Organization Health Survey product used by numerous organizations seeking data on workforce development"]
-}
+    }
   ],
   "education": [
     {
