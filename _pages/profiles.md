@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: prof_pic.jpg
     content: about_einstein.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>Indiana University, Bloomington</p>
       <p>Luddy School of Informatics, Computing, & Engineering</p>
@@ -20,7 +20,7 @@ profiles:
   - align: left
     image: prof_pic.jpg
     content: about_einstein.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
     more_info: >
       <p>Indiana University, Bloomington</p>
       <p>Luddy School of Informatics, Computing, & Engineering</p>
