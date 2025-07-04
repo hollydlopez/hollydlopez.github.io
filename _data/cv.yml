@@ -2,96 +2,71 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Holly Lopez
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D., Information Science
+      institution: Indiana University, Bloomington
+      year: 2026 (Expected)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: 
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: M.A., Linguistics
+      institution: Georgetown University
+      year: 2013
       description:
-        - Description 1.
-        - Description 2.
+    - title: B.A., Communication Studies
+      institution: Vanguard University
+      year: 2008
+      description:
 
-- title: Experience
+- title: Academic Appointments
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Assistant Instructor, Instructor or Record
+      institution: Indiana University, Bloomington
+      year: 2021-2024 AYs
+      Courses:
+        - Information Institutions and their Management (ILS Z-550)
+        - Social Media Mining (ILS Z-639)
+        - Content Analysis for the Web (ILS Z-642)
+    - title: Assistant Instructor, Co-Instructor
+      institution: Indiana University, Bloomington
+      year: 2019-2020 AYs
+      Courses:
+        - Information Institutions and their Management (ILS Z-550)
+        - From James Bond to Zombie Apocalypse and NSA Leaks: Evaluating Information and Intelligence (ILS Z-115)
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+- title: Professional Experience
+    - title: Qualitative Research Assistant
+      institution: Jeffco Public Schools - Golden, CO
+      year: 2014-2017
+      Description:
+      - Designed and executed research studies and program evaluations for Title I funded projects including family engagement, literacy, and academic intervention initiatives.
+      - Facilitated design workshops in which 27 family engagement liaisons developed family outreach initiatives at Title I schools across the district.
+      - Led the Supplemental Education Services program in the iterative design process for three years and used mixed-methods research to inform incremental change throughout the program’s life cycle.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+      - title: User Experience Research Analyst
+      institution: Fors Marsh Group LLC - Arlington, VA
+      year: 2012-2013
+      Description:
+      - Performed and designed user experience research for web products and surveys.
+      - Led qualitative research and created reports with recommendations for the improvement of employee recruitment and retention web products for clients.
+      - Contributed to the Total Organization Health Survey product used by numerous organizations seeking data on workforce development.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Luddy School of Informatics, Computing, and Engineering Outstanding Teaching Award
+    - year: 2023
       items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - Luddy School of Informatics, Computing, and Engineering Outstanding Teaching Award
+        - Luddy PhD Summer Research Award
+    - year: 2018
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Information Science Leadership Fellowship
