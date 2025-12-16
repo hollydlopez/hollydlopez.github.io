@@ -69,9 +69,14 @@ about:
 
 I'm a researcher exploring the intersection of **language, technology, and ethics**. My work centers on automated abusive language detection, the development of high-quality linguistic resources, and the design of **socially responsible AI systems**. I bring together computational approaches and critical perspectives on language and harm to create tools that are ethically informed. I'm driven by a commitment to **fair and equitable machine learning** that is aware of its social implications and helps build **safer, more inclusive digital spaces**.
 
-## Experience
+## Doctoral Candidate
 
-- Doctoral Candidate, Indiana University, Bloomington
+# Indiana University, Bloomington
+
+Luddy School of Informatics, Computing, and Engineering
+
+Department of Information Science
+
 
 
 :::
