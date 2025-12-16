@@ -3,40 +3,39 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Holly Lopez"
+description-meta: "Holly Lopez - Information Scientist"
 author-meta: "Holly Lopez"
 
 website:
   title: "Holly's Academic portfoio"
-#  image: "https://quarto.org/quarto.png"
-  description: "Academic Portfolio"
+  description: "Information scientist investigating AI safety, abusive language detection, and content moderation systems"
  
   navbar:
-    background: 'ff9058"  # You can change the background color here
+    background: '#ff9058"  # Same tangerine color as the banner image
 
-    left:   # You can comment out all navigation items here if you just like to keep the index page only
-      - text: Home
-        href: index.qmd
-      - text: About
-        menu:
-          - text: Meet Holly
-            meet_holly.qmd
-          - text: News
-            href: posts.qmd#category=news
+    #left:   # You can comment out all navigation items here if you just like to keep the index page only
+     # - text: Home
+     #   href: index.qmd
+     # - text: About
+      #  menu:
+      #    - text: Meet Holly
+      #      meet_holly.qmd
+      #    - text: News
+      #      href: posts.qmd#category=news
 #          - text: Events
 #            href: posts.qmd#category=event      
-          - text: Contact
-            href: contact.qmd             
-      - text: Research
-        menu:
-          - text: List of Publications
-            href: publications.qmd
-          - text: Selected Papers
+  #        - text: Contact
+    #        href: contact.qmd             
+    #  - text: Research
+     #   menu:
+    #      - text: List of Publications
+    #        href: publications.qmd
+   #       - text: Selected Papers
 #            href: posts.qmd#category=paper
 #          - text: Grants
 #            href: projects.qmd                                
-      - text: Teaching # Comment the Teaching part out to remove the Teaching page
-        href: teaching.qmd
+#      - text: Teaching # Comment the Teaching part out to remove the Teaching page
+#        href: teaching.qmd
 #      - text: Outreach
 #        menu:        
 #        - text: Presentations
@@ -46,7 +45,7 @@ website:
 
     right: 
       - text: CV
-        href: files/nsf-biosketch.pdf
+        href: files/ProfCV_FA2025.pdf
       - icon: github
         href: https://github.com/hollydlopez
         target: _blank
@@ -64,7 +63,7 @@ website:
     center: ""
     right:  
       - icon: github
-        href: https://github.com/drganghe/hollydlopez
+        href: https://github.com/hollydlopez
         target: _blank
 #      - text: "{{< fa brands bluesky >}}" 
 #        href: https://bsky.app
