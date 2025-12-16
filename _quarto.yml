@@ -8,11 +8,11 @@ author-meta: "Holly Lopez"
 
 website:
   title: "Holly's Academic portfoio"
-  image: "https://quarto.org/quarto.png"
+#  image: "https://quarto.org/quarto.png"
   description: "Academic Portfolio"
  
   navbar:
-    background: light  # You can change the background color here
+    background: 'ff9058"  # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
       - text: Home
