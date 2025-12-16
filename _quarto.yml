@@ -3,26 +3,26 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "Quarto Academic Website Template adapted by Holly Lopez"
+author-meta: "Holly Lopez"
 
 website:
-  title: "Quarto Academic"
+  title: "Holly's Academic portfoio"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  description: "Academic Portfolio"
  
   navbar:
     background: light  # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
-#      - text: Home
+      - text: Home
 #        href: index.qmd
       - text: About
         menu:
           - text: News
             href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event      
+#          - text: Events
+#            href: posts.qmd#category=event      
           - text: Contact
             href: contact.qmd             
       - text: Research
@@ -31,45 +31,45 @@ website:
             href: publications.qmd
           - text: Selected Papers
             href: posts.qmd#category=paper
-          - text: Grants
-            href: projects.qmd                                
+#          - text: Grants
+#            href: projects.qmd                                
       - text: Teaching # Comment the Teaching part out to remove the Teaching page
         href: teaching.qmd
-      - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation                   
-      - text: Group   # Comment the Group part out to remove the Group page
-        href: people.qmd
+#      - text: Outreach
+#        menu:        
+#        - text: Presentations
+#          href: posts.qmd#category=presentation                   
+#      - text: Group   # Comment the Group part out to remove the Group page
+#        href: people.qmd
 
     right: 
       - text: CV
         href: files/nsf-biosketch.pdf
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/hollydlopez
         target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
-        target: _blank      
-      - icon: rss
-        href: posts.xml
-        target: _blank
+#      - text: "{{< fa brands bluesky >}}"
+#        href: https://bsky.app
+#        target: _blank      
+#      - icon: rss
+#        href: posts.xml
+#        target: _blank
   
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    left: "[Holly Lopez](http://www.github.com/hollydlopez) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: ""
     right:  
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/drganghe/hollydlopez
         target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
-        target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
+#      - text: "{{< fa brands bluesky >}}" 
+#        href: https://bsky.app
+#        target: _blank
+#      - icon: rss
+#        href: posts.xml
+#        target: _blank  
   
   search:
     location: navbar
@@ -79,15 +79,15 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
+#  repo-url: https://github.com/drganghe/quarto-academic-website-template
 #  repo-actions: [edit, issue, source]
   
   open-graph: true
   
-  twitter-card: true 
+  twitter-card: false 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  site-url: "https://hollydlopez.github.io"
   
   google-analytics:
     tracking-id: ""  # Please delete or replace with your own tracking ID
