@@ -13,20 +13,14 @@ website:
   navbar:
     right:
       - text: About
-        aria-label: "About Me"
+        aria-label: "About"
         href: about/index.qmd
       - text: Projects
-        aria-label: "Project Portfolio"
+        aria-label: "Projects"
         href: project/index.qmd
-      - text: Talks
-        aria-label: "Invited Talks"
-        href: talk/index.qmd
-      - text: Blog
-        aria-label: "Meeting People Where They R"
-        href: blog/index.qmd
       - text: Publications
         aria-label: "Publications"
-        href: publication/index.qmd
+        href: publications.html
       - icon: github
         href: https://www.github.com/hollydlopez
         aria-label: "GitHub"
