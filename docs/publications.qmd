@@ -1,0 +1,35 @@
+---
+title: "Publications"
+description-meta: "Information, pdfs, and social metrics of papers"
+#page-layout: full
+#back-to-top-navigation: true
+title-block-banner: true
+css: custom.css
+---
+
+## Journals and Conference Proceedings
+
+Lopez, H. (Under Review). [Combating harmful content: A critical realist review of interventions for the prevention
+and mitigation of online abusive language.] The Annual Review of Information Science and Technology
+(ARIST).
+
+Lopez, H. & Kübler, S. (2025). [Contextualization in abusive language annotation and corpora development /[special
+issue/]]. Discourse, Context, and Media.\[[code and data] (https://www.sciencedirect.com/science/article/abs/pii/S2211695824000941)\] ![]
+
+Lopez Long, H and Fichman, P. (2023). The impact of politeness on conversational outcomes in mobile dating apps.
+Hawaii International Conference on System Sciences, Lahaina, Hawaii.
+
+Lopez Long, H., O’Neil, A., & Kübler, S. (2021). On the Interaction between Annotation Quality and Classifier
+Performance in Abusive Language Detection. Proceedings of the International Conference on Recent
+Advances in Natural Language Processing (RANLP 2021).
+
+Herring, S. C., Dainas, A. R., & Lopez Long, H. (2020). If I’m close with them it wouldn’t be weird”: Social
+distance and animoji use. International Conference on Human-Computer Interaction. Springer, Cham.
+
+Herring, S. C., Dainas, A. R., Lopez Long, H., & Tang, Y. (2020). Animoji adoption and use: Gender associations
+with an emergent technology. Proceedings of Emoji 2020. CA: AAAI.
+Herring, S. C., D   
+
+
+<center><hr style="width:50%"></center>
+
