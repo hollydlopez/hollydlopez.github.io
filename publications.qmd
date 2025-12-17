@@ -3,32 +3,34 @@ title: "Publications"
 description-meta: "Information, pdfs, and social metrics of papers"
 #page-layout: full
 #back-to-top-navigation: true
-title-block-banner: false
+title-block-banner: true
 css: custom.css
 ---
 
+## Journals and Conference Proceedings
 
-<!--Include academic icons or buttons-->
-{{< include /files/includes/_academic.qmd >}}
+Lopez, H. (Under Review). [Combating harmful content: A critical realist review of interventions for the prevention
+and mitigation of online abusive language.] The Annual Review of Information Science and Technology
+(ARIST).
 
-Notes: \* corresponding author; <sup>GS</sup> graduate student advisee; <sup>VS</sup> visiting scholar; ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ESI [Highly Cited Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-highly-cited-papers.html) (top 1%); ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} ESI [Hot Paper](https://webofscience.help.clarivate.com/en-us/Content/esi-hot-papers.html) (top 0.1%) 
+Lopez, H. & Kübler, S. (2025). [Contextualization in abusive language annotation and corpora development /[special
+issue/]]. Discourse, Context, and Media.\[[code and data] (https://www.sciencedirect.com/science/article/abs/pii/S2211695824000941)\] ![]
 
-Total citations as of January 2025:
+Lopez Long, H and Fichman, P. (2023). The impact of politeness on conversational outcomes in mobile dating apps.
+Hawaii International Conference on System Sciences, Lahaina, Hawaii.
 
-- [Web of Science](https://www.webofscience.com): 100,000 (h-index = 100)   
-- [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ&hl=en): 179,000 (h-index = 127, i10-index = 377) 
+Lopez Long, H., O’Neil, A., & Kübler, S. (2021). On the Interaction between Annotation Quality and Classifier
+Performance in Abusive Language Detection. Proceedings of the International Conference on Recent
+Advances in Natural Language Processing (RANLP 2021).
 
-## Selected Work
+Herring, S. C., Dainas, A. R., & Lopez Long, H. (2020). If I’m close with them it wouldn’t be weird”: Social
+distance and animoji use. International Conference on Human-Computer Interaction. Springer, Cham.
 
-Einstein, A., Podolsky, B., & Rosen, N. (1935). [Can quantum-mechanical description of physical reality be considered complete?](posts/paper-title/index.qmd). *Physical review*, 47(10), 777. \[[pdf](https://scholar.google.com/)\] \[[code and data](https://doi.org)\] ![](https://drganghe.github.io/files/images/highly-cited-paper-badge.png "ESI Highly Cited Paper"){width=20 fig-alt="Highly cited paper"} ![](https://drganghe.github.io/files/images/hot-paper-badge.png "ESI Hot Paper"){width=20 fig-alt="Hot paper"} <span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1103/PhysRev.47.777" data-hide-no-mentions="true" class="altmetric-embed"></div>     
+Herring, S. C., Dainas, A. R., Lopez Long, H., & Tang, Y. (2020). Animoji adoption and use: Gender associations
+with an emergent technology. Proceedings of Emoji 2020. CA: AAAI.
+Herring, S. C., D   
 
 
 <center><hr style="width:50%"></center>
 
-Einstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. *American Journal of Physics*, 33(5), 367. [[pdf](https://icg.isy.liu.se/en/phd-courses/quantum_foundations/references/Einstein1905b.pdf)] <span class="__dimensions_badge_embed__" data-doi="10.1038/s41560-023-01304-w" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1038/s41560-023-01304-w" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
-
-
-<!--Include social share buttons-->
-
-{{< include /files/includes/_socialshare.qmd >}}
