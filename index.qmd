@@ -1,92 +1,62 @@
 ---
-title: ""
-description-meta: "Holly's Academic Portfolio"
-image: "files/images/Banner.jpg"
-page-navigation: false
-toc: false
-#sidebar: false
-page-layout: full
+title: "Holly Lopez"
+pagetitle: "Holly Lopez"
+subtitle: "Information scientist investigating AI safety, abusive language detection, and content moderation systems"
+
 
 about:
+  template: solana
+  image-width: 28em
   id: hero-heading
-  template: marquee
-  image-width: 70%
-#  links:
-#    - icon: sun
-#      text: Lab
-#      href: https://www.github.com
-#      target: _blank
-#    - icon: globe
-#      text: Uprofile
-#     href: https://baruch.cuny.edu
-#      target: _blank
-#    - icon: envelope
-#      text: E-mail
-#      href: mailto:email@gmail.com    
-#    - icon: linkedin
-#      text: LinkedIn
-#      href: https://linkedin.com
-#      target: _blank
-#    - icon: youtube
-#      text: YouTube
-#      href: https://www.youtube.com     
-#      target: _blank 
-#    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome  #extension
-#      href: https://orcid.org
-#      target: _blank
-#    - text: "{{< ai clarivate >}} Web of Science"
-#      href: https://www.webofscience.com  
-#      target: _blank
-#    - text: "{{< ai scopus >}} Scopus"
-#      href: https://www.scopus.com
-#      target: _blank
-#    - text: "{{< ai google-scholar >}} Google Scholar"
-#      href: https://scholar.google.com
-#      target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
+  links:
+    - icon: linkedin
+      aria-label: "LinkedIn"
+      href: https://www.linkedin.com/in/hollydlopez
+    - icon: github
+      aria-label: GitHub
+      href: https://github.com/hollydlopez
+    - text: "{{< ai google-scholar >}}"
+      aria-label: "Google Scholar"
+      href: https://scholar.google.com/citations?user=wHSlHaAAAAAJ&hl=en
+    - text: CV
+      aria-label: CV
+      href: files/ProfCV_FA2025.pdf
+page-layout: full
 
-#listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-#  - id: recent-posts
-#   contents: 
-#     - posts
-#      - posts/post-links.yml
-#    exclude:
-#      title: ""
-#    type: grid
-#    max-items: 3
-#    image-height: 150px
-#    page-size: 3 #set same as max-times to remove the page number setting
-#    fields: [image, date, title, subtitle]
-#    max-description-length: 75
-#    sort: 
-#      - "date desc"
-#     - "title asc"
+execute:
+  freeze: false
+  echo: false
+  warning: false
+
+# header-includes: >
+#   <link rel="stylesheet" href="assets/index.css">
+# resources:
+#   - assets/index.css
 ---
 
-:::{#hero-heading}
+<br><br>
+
+
+::: {#hero-heading}
 
 I'm a researcher exploring the intersection of **language, technology, and ethics**. My work centers on automated abusive language detection, the development of high-quality linguistic resources, and the design of **socially responsible AI systems**. I bring together computational approaches and critical perspectives on language and harm to create tools that are ethically informed. I'm driven by a commitment to **fair and equitable machine learning** that is aware of its social implications and helps build **safer, more inclusive digital spaces**.
 
-## Doctoral Candidate
-
-# Indiana University, Bloomington
-
-Luddy School of Informatics, Computing, and Engineering
-
-Department of Information Science
-
-
+[Learn more about me &rarr;](/about){.about-links .subtitle}
 
 :::
+<!-- hero-heading -->
 
+```{r write-manual-redirects}
+#| eval: true
 
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+manual_redirects <-
+  readr::read_table(here::here("static", "_manualredirects.txt"),
+                    col_names = FALSE) |>
+  dplyr::mutate(redirect = paste0(X1, " ", X2, " ", X3))
 
-:::{#recent-posts}
-:::
+manual_redirects <- manual_redirects$redirect
 
-<p align="right">[All Posts »](/posts.qmd)</p>
+# write the _redirect file
+writeLines(manual_redirects, here::here("_site", "_redirects"))
+
+```
